@@ -1,6 +1,6 @@
 # 🌐 My Personal Portfolio
 
-> 🚀 [Live Site → mugdh.ct.ws](https://mugdh.ct.ws)
+> 🚀 [Live Site → mugdh.ct.ws](https://mugdh.vercel.app)
 
 Welcome to the source code of my personal portfolio — a visually rich, interactive, and modern showcase of who I am, what I build, and how I impact.
 
@@ -56,7 +56,7 @@ Each project includes:
 
 ## 📍 Live Preview
 
-🔗 [View the Portfolio Live](https://mugdh.ct.ws)
+🔗 [View the Portfolio Live](https://mugdh.vercel.app)
 
 ---
 
